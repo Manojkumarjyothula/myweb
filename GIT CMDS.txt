@@ -1,0 +1,15 @@
+ 501  git clone https://github.com/srinivas1987devops/myweb.git
+  502  ls
+  503  cd myweb/
+  504  touch manoj
+  505  git status
+  506  git add .
+  507  git status
+  508  git commit -m 'manoj123'
+  509  git log
+  510  git push origin master
+  511  git pull origin master
+  512  cat kaplana
+  513  git pull https://github.com/srinivas1987devops/myweb.git master
+  514  cat anji-nexus.txt
+  515  history
